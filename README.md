@@ -27,3 +27,16 @@ pointを指定した数だけ生成。
 それぞれのpointを移動（円を描くように）。
 それらを結んで面を作成。
 色をRGBにしているので、重なると白になる。
+
+### [practice005](https://www.youtube.com/watch?v=Ddu3apOVv_E&t=0s&list=PLGGCQlDEkVrGsWBxsLJAg-oVClGfYlHhz&index=5)
+
+macOS Sierra ver.10.12.6
+of_v0.9.8_osx
+Xcode 920
+
+
+### [practice007](https://www.youtube.com/watch?v=42hCoVMx79g&t=0s&list=PLGGCQlDEkVrGsWBxsLJAg-oVClGfYlHhz&index=7)
+
+mac HightSierra ver.10.13.4
+of_v0.9.8_osx
+Xcode 920
