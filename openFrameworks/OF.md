@@ -8,10 +8,10 @@ Xcode 920
 
 ### memo
 
-・ ひとまとまり、クラスで考える
-・ fullscreenにするとframeRateが遅くなる ->解決策はまだ不明
-・ 表示を停止させるのは何を使ったらよいのか？
-・ ofSetLineWidthはある一定の値を越えると太さが変わらない
+* ひとまとまり、クラスで考える
+* fullscreenにするとframeRateが遅くなる ->解決策はまだ不明
+* 表示を停止させるのは何を使ったらよいのか？
+* ofSetLineWidthはある一定の値を越えると太さが変わらない
 
 #### 作ろうとしたもの
 https://giphy.com/gifs/design-architecture-kViLvWL4U9FbW
