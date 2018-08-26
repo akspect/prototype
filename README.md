@@ -7,4 +7,7 @@
 
 
 ## openFrameworks
+作成した動画はYoutubeにup
 
+## AE
+作成した動画はYoutubeにup
