@@ -89,3 +89,23 @@ Xcode 920
 mac HightSierra ver.10.13.4  
 of_v0.9.8_osx  
 Xcode 920  
+
+# [practice011_01](https://youtu.be/Pm0BGEj41ZY)
+mac HightSierra ver.10.13.4  
+of_v0.9.8_osx  
+Xcode 920  
+
+# [practice011_02](https://youtu.be/WND_pkea9Fo)
+mac HightSierra ver.10.13.4  
+of_v0.9.8_osx  
+Xcode 920  
+
+## [practice012_01](https://youtu.be/PjcnkXH781Q)
+
+macOS Sierra ver.10.13.4
+AE CC2018 Expressions
+
+## [practice012_2](https://youtu.be/V0hMRBHzwmw)
+
+macOS Sierra ver.10.13.4
+AE CC2018 Expressions
