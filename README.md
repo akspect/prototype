@@ -1,6 +1,12 @@
 # prototype
 自主制作でしたものをupしていきます。
 
+## openFrameworks
+### multiWindow
+複数ウィンドウを表示。マウスを押したX座標で再生する動画を切り替える。  
+addon `ofxDSHapVideoPlayer` のvectorだとerrorが出るので、 `ofVideoPlayer` で実装。
+
+
 ## processing
 ### saveCountImg
 画像の連番を設定した枚数分だけ書き出す
