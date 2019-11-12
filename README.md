@@ -3,8 +3,8 @@
 
 ## openFrameworks
 ### multiWindow
+### multiWIndowOneApp
 複数ウィンドウを表示。マウスを押したX座標で再生する動画を切り替える。  
-addon `ofxDSHapVideoPlayer` のvectorだとerrorが出るので、 `ofVideoPlayer` で実装。
 
 
 ## processing
